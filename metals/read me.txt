@@ -1,0 +1,17 @@
+In Photoshop a layer style refers to the two-dimensional and three-dimensional effects applied to each layer. A filter is an extension of these layer styles which changes the overall image on a layer by layer basis in a wide variety of ways. 
+
+INSTALLATION 
+
+    * Styles are in .asl format. After the download copy and install them in the C:\Program Files\Adobe\Adobe Photoshop CS3\Presets\Styles folder.
+
+For more and detailed infos read here:
+
+http://graphicssoft.about.com/od/photoshop/qt/installcontent.htm
+
+In the Presentation I've also used some lens flare brushes to achieve a nicer effect. You can download them for free here:
+
+http://neonescence.deviantart.com/art/Lens-Flare-Brushes-99002450
+
+The font used in the .psd file is EucrosiaUPC and you can download it here:
+
+http://www.ascenderfonts.com/font/eucrosiaupc.aspx

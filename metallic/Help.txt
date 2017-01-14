@@ -1,0 +1,25 @@
+
+How to use:
+
+ Open the PSD file
+
+Change the size
+
+ convert to smart object and resize to your format or
+ Go to "Image - Image Size" put in your size and keep the "Scale Styles" checked
+
+Change the text and the font
+
+Change Text:
+ Select the Type tool and click on the text and change the text to your own.
+ Now make the upper layer invisible and click on the other layer to change it with the same text.
+
+Change Font:
+ Select both text layers and change the font and the size of the font.
+
+Change the colors of the styles
+
+ Select the first layer that comes after background.
+ double click the layer for layer styles
+ Click on the layer style "Stroke" and change the color of the gradient.
+
